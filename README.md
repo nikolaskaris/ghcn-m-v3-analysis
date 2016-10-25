@@ -6,4 +6,4 @@ to see if there has been a statistically significant increase in the rate of glo
 I am using ordinary least-squares regression to calculate the slope of the observed trends in surface temperature in North America
 across the aforementioned periods (I have started by regressing a bigger chunk of the data, from 1901-2010 and then from 1979-2010).
 A simple t-test indicates that annualized surface warming rates using February as a baseline of +0.007 C from 1901-2010 and of
-+0.0305 C from 1979 to 2010 are significant with p-values < 0.001. P
++0.0305 C from 1979 to 2010 are significant with p-values < 0.001. 
